@@ -1,0 +1,10 @@
+・開発環境にstreamlitをインストールする
+	>> pip install streamlit
+
+・コマンドプロンプト（PowerShell）で作業ディレクトリに移り、streamlitでpythonファイルを実行する
+  → ブラウザにてstreamlitが起動する
+	>> streamlit run xxx.py
+
+・pythonファイルでは、streamlitをインポートする
+	>> import streamlit as st
+
